@@ -25,15 +25,6 @@ A machine learning-based GitHub issue classifier that categorizes issues into Fe
 | 📂 Dataset | GitHub Issues (Feature, Bug, Question) |
 | 🎯 Deployment |  Google Collab |
 
-📂 Project Structure
-📦 Classifying-GitHub-Issues-LLMs
-├── 📜 issueclassificationgpt.ipynb  # Model training and evaluation
-├── 📄 issues_train.csv  # Training dataset
-├── 📄 issues_test.csv  # Testing dataset
-├── 📂 models  # Trained model files
-├── 📂 data  # Raw & processed data
-├── 📜 cell51output.txt  # Log output
-├── 📜 README.md  # Project documentation
 
 
 🚀 Setup & Installation
@@ -84,30 +75,12 @@ F1-Score	86.73%
 ✅ Implement better context retrieval (RAG) for improved accuracy.
 ✅ Optimize training for lower computational cost.
 
-
-
-
-📩 Contact & Contributions
 💡 Contributions are welcome! If you’d like to enhance this project, feel free to submit a pull request.
 
 ---
 
 ## **⚙️ Setup & Installation**
 Follow these steps to run the project locally:
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/Narayana27/Classifying-GitHub-Issues-LLMs.git
-cd Classifying-GitHub-Issues-LLMs
-
-
-
-
-
-
----
-
-## **📌 Next Steps**
 1. **Edit Your README.md in VS Code**
    - Open `README.md` in **VS Code** and replace the content with the above Markdown.
    - Save the file (`Ctrl + S`).
